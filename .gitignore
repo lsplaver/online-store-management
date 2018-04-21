@@ -57,4 +57,3 @@ typings/
 # dotenv environment variables file
 .env
 
-bamazonCustomer-with-credentials.js
